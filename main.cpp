@@ -168,5 +168,5 @@ int main() {
     test_resize();
     std::cout << "开始测试函数 << hist_eq >> ..." << std::endl;
     test_hist_eq();
-    return 0;
+return 0;
 }
